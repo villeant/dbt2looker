@@ -633,7 +633,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         },
         "compiled_sql": {
@@ -1104,7 +1104,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         },
         "compiled_sql": {
@@ -1472,7 +1472,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         },
         "compiled_sql": {
@@ -1692,7 +1692,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         },
         "compiled_sql": {
@@ -1922,7 +1922,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         },
         "compiled_sql": {
@@ -2153,7 +2153,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         },
         "compiled_sql": {
@@ -2411,7 +2411,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         },
         "compiled_sql": {
@@ -2741,7 +2741,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         },
         "compiled_sql": {
@@ -2957,7 +2957,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         }
       },
@@ -3149,7 +3149,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         }
       },
@@ -3334,7 +3334,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         },
         "index": {
@@ -3529,7 +3529,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         }
       },
@@ -3714,7 +3714,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         }
       },
@@ -3910,7 +3910,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         },
         "column_name": {
@@ -4106,7 +4106,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         }
       },
@@ -4277,7 +4277,7 @@
           "default": {}
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         }
       },
@@ -4619,7 +4619,7 @@
           ]
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         }
       },
@@ -5032,7 +5032,7 @@
           "default": []
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         }
       },
@@ -5254,7 +5254,7 @@
           "default": []
         },
         "created_at": {
-          "type": "integer",
+          "type": "number",
           "default": 1623077341
         }
       },
